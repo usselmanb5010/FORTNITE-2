@@ -1,6 +1,6 @@
-### FORTNITE-2
+# FORTNITE-2
 ## The sequel xD
-# Dearest fellow computer scientists,
+Dearest fellow computer scientists,
 
 I, Boston Lincoln Usselman, bid you salutations!
 I yearn that they who read this is in good health,
